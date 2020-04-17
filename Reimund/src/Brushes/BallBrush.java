@@ -12,7 +12,7 @@ public class BallBrush extends JavaPlugin{
 		if (sender instanceof ConsoleCommandSender) return false;
 		if (cmd.getName().equalsIgnoreCase("sphere")) {
 			Player player = (Player) sender;
-			//alright, now write the rest of your code for the command here (delete this after you read it)
+			
 		}
 		return true;
 	}
