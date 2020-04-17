@@ -1,5 +1,11 @@
 package Brushes;
 
-public class BallBrush {
+import org.bukkit.Bukkit;
+import org.bukkit.plugin.java.JavaPlugin;
 
-}
+public class BallBrush extends JavaPlugin{
+	
+	
+	
+	
+};
