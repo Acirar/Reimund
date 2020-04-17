@@ -30,6 +30,7 @@ public class Main extends JavaPlugin{
 			Block block = player.getTargetBlock(null,200);
 			block.setType(Material.AIR);
 			player.sendMessage("test");
+			return true;
 		} else if (cmd.getName().equalsIgnoreCase("sphere")) {
 			//code for /sphere command goes here
 		}
