@@ -1,0 +1,15 @@
+name: Reimund
+main: main.Main
+version: 0.1
+description: plugin for Reimund
+author: Benjables, Acirar
+api version: 1.15.2
+commands:
+  sphere:
+    description: create spheres
+    permisison: reimund.builder
+    usage: /sphere <block> <size>
+  smooth:
+    description: smooth blocks in certain radius
+    permission: reimund.builder
+    usage: /smooth <radius>
